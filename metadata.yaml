@@ -1,11 +1,16 @@
 _repo: Christmas-builders_70703
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70703-h/images/cover.jpg
 creator:
   author:
     agent_name: Jefferson, Charles Edward
     gutenberg_agent_id: '55873'
     url: http://www.gutenberg.org/2009/agents/55873
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70703#Christmas-builders
 gutenberg_issued: '2023-05-04'
 identifiers:
   gutenberg: '70703'
